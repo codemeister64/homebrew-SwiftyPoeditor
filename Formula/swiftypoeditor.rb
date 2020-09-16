@@ -2,7 +2,7 @@ class Swiftypoeditor < Formula
   desc "CLI tool to manage your application translations with POEditor service"
   homepage "https://github.com/codemeister64/SwiftyPoeditor"
   url "https://github.com/codemeister64/SwiftyPoeditor.git"
-  version "1.0.3"
+  version "1.0.4"
 
   depends_on :xcode => ["11.0", :build]
 
